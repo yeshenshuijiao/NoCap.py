@@ -1,4 +1,4 @@
-# 🎩 No Cap
+# 🎩 NoCap.py
 > A python module to solve all sorts of pesky captchas. We <3 bots.
 
 
