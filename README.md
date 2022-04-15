@@ -1,3 +1,5 @@
+### ⚠️ THIS PROJECT IS COMING SOON. 
+
 # 🎩 NoCap.py
 > A python module to solve all sorts of pesky captchas. We <3 bots.
 
