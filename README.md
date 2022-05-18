@@ -1,6 +1,6 @@
-### ⚠️ THIS PROJECT IS COMING SOON. 
+### ⚠️ THIS PROJECT IS COMING SOON. WE WILL PUBLISH A DEVELOPMENT BRANCH FOR EARLY BETAS SOON.
 
-# 🎩 NoCap.py
+# 🎩 StopTheCap
 > A python module to solve all sorts of pesky captchas. We <3 bots.
 
 
